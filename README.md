@@ -1,4 +1,4 @@
-# test-Hello
+# Hello
 
 Welcome to my very first repository on GitHub!
 
